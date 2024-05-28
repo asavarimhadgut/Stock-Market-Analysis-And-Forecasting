@@ -1,0 +1,28 @@
+
+<style>
+body {
+    background-color: #121212; /* Dark background */
+    color: #ffffff; /* Light text color */
+    padding: 50px;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #00ff00; /* Light green header text color */
+    text-align: center; /* Center align the text */
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif; /* Pretty font */
+}
+
+.container {
+    background-color: #333333; /* Darker container background */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Box shadow for container */
+}
+
+.img-fluid {
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.5); /* Box shadow for image */
+}
+
+</style>
